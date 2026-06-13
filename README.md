@@ -80,5 +80,3 @@ In the sidebar you can choose:
 
 ---
 
-## 📜 License
-MIT — free to use, learn, and share!
